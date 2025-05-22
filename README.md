@@ -23,7 +23,7 @@ You can use this code in your programs if you want, or try it
 C:\WINDOWS\system32> cd C:\Tool folder...
 ```
 ```bash
-C:\WINDOWS\system32> Run.bat
+C:\WINDOWS\system32> install.bat
 ```
 
 **Manually :**
@@ -31,7 +31,7 @@ C:\WINDOWS\system32> Run.bat
 Open Tool Folder
 ```
 ```
-Run the Run.bat file
+Run the install.bat file
 ```
 
 
